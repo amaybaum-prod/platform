@@ -814,7 +814,7 @@
   "intro_messages.beginning": "Beginning of {name}",
   "intro_messages.channel": "channel",
   "intro_messages.creator": "This is the start of the <strong>{name}</strong> {type}, created by <strong>{creator}</strong> on <strong>{date}</strong>",
-  "intro_messages.default": "<h4 class='channel-intro__title'>Beginning of {display_name}</h4><p class='channel-intro__content'><strong>Welcome to {display_name}!</strong><br/><br/>This is the first channel teammates see when they sign up - use it for posting updates everyone needs to know.</p>",
+  "intro_messages.default": "<h4 class='channel-intro__title'>Beginning of {display_name}</h4><p class='channel-intro__content'><strong>Welcome to {display_name}!</strong><br/><br/>これは、チームメイトがサインアップしたときに見る最初のチャンネルです - use it for posting updates everyone needs to know.</p>",
   "intro_messages.group": "private group",
   "intro_messages.invite": "Invite others to this {type}",
   "intro_messages.inviteOthers": "Invite others to this team",
